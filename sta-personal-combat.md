@@ -34,6 +34,10 @@ Opposed **Daring + Security**. If target is unaware, D1.
 D2 **Control + Security**. If target is in cover, the roll is opposed, and the defender gets one free bonus momentum 
 which may only be used to buy an additional dice.
 
+Standard weapons may not fire at targets past medium range.  
+Rifles, scoped weapons, or otherwise aim-assisted weapons may fire at targets at long range.  
+No weapons may fire at extreme range unless approved by the GM.
+
 ### Counterattack
 If the attack was opposed and the defender won, they may:
 - Move out of reach **or**
