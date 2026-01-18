@@ -2,4 +2,4 @@
 
 ## [Personal Combat Rules](./sta-personal-combat.md)
 
-## [Starship Combat Rules](./sta-personal-combat.md)
+## [Starship Combat Rules](./sta-starship-combat.md)
